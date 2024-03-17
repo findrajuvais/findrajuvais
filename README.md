@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Raju kumar vais
-- 👀 I’m interested in Nodejs,Angular, Python 
+- 👀 I’m interested in Nodejs, Reactjs, Python, Shell Script,  Mysql 
 - 🌱 I’m currently learning Python, Django, Data Structure, Algorithms
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me findrajuvais03@gmail.com
